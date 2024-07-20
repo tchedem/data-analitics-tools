@@ -1,6 +1,6 @@
 # Some data analitics tools
 
-- Metabase
+- Metabase : https://www.metabase.com/docs/latest/installation-and-operation/running-metabase-on-docker
 - Tableau
 - Power BI
 
