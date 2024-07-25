@@ -5,3 +5,9 @@
 - Power BI
 
 To build analytics dashboard without much frontend skills, you can use Taipy
+
+
+25-07-2024
+Today, I see a new type of Diagram. They call it **Sankey Graph**
+You can check it here: https://www.malt.fr/resources/reports/tech-data-2019/
+The website is blocked for african countries. So you'll need to use a VPN.
