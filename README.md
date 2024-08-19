@@ -14,3 +14,4 @@ The website is blocked for african countries. So you'll need to use a VPN.
 
 02-08-2024
 You ca use this playlist on youtube to play with metabase default database and create a dashboard. 
+ 
